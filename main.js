@@ -1,5 +1,8 @@
-const path = require('path');
+const http = require('http');
 
-// TODO: Use path.join to join two file path segments
+// TODO: Create an HTTP server
 
-// TODO: Print the resulting path to the console
+// TODO: Listen on port 3000
+
+// DO NOT EDIT BELOW THIS LINE (Uncomment it once you are done with your code)
+
